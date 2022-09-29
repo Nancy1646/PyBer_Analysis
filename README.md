@@ -15,7 +15,8 @@ The suburban area seems to be in the middle, with the number of drivers not over
 
 ### Multiple-line Chart of Total Fares for Each City Type
 
-![Multiple-line Chart of Total Fares for Each City Type](PyBer_fare_summary.png)
+![Multiple-line Chart of Total Fares for Each City Type](analysis/PyBer_fare_summary.png)
+
 The chart above shows the total fares per week over the period of January to April 2019 divided into the 3 city types. The Urban areas had the highest total fares, follwed by the suburban areas and then the rural areas. There is not a lot of variation in the fares over the 4 months, but there seems to me a peak in fares in all 3 areas in late February. 
 
 
